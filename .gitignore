@@ -7,6 +7,7 @@ out/
 ObjectAnalyzer.iml
 
 .idea
+.class
 
 ### Eclipse ###
 .apt_generated
